@@ -1,0 +1,6 @@
+10:5
+Floor Floor Floor null null null null null null null 
+DownwardSpikes DownwardSpikes DownwardSpikes null null null null null null null 
+null null null null null null null EndPoint null null 
+null SpawnPoint:true null null null null null Floor null null 
+Floor Floor Floor Acid Floor Spikes Floor Floor null null 

@@ -1,0 +1,15 @@
+40:14
+Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor 
+Floor null null null null null Floor null null null null null null null null DownwardSpikes DownwardSpikes DownwardSpikes null null null null null null null null null null null null null null null null null null null null null Floor 
+Floor null null null null null Floor null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null Floor 
+Floor null SpawnPoint:true null null null Floor null EndPoint null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null Floor 
+Floor Floor Floor Floor Floor null Floor Floor Floor Floor Floor Floor Floor Floor null null null null null null null null null null null null null null null null null null null null null null null null null Floor 
+Floor null null null null null Floor null null null null null DownwardSpikes DownwardSpikes null null null Floor null null null Floor Floor null null null Floor Floor null null null Floor Floor null null null null null null Floor 
+Floor null null null null null Floor null null null null null null null null null Floor Floor null null null null null null null null null null null null null null null null null null null null null Floor 
+Floor null Floor Floor Floor Floor Floor null null null null null null null null Floor Floor Floor null null null null null null null null null null null null null null null null null null null null null Floor 
+Floor null null null null null Floor null null null null null null null Floor Floor Floor Floor null null null null null null null null null null null null null null null null null null null null null Floor 
+Floor null null null null null Floor null null null null null null Floor Floor Floor Floor Floor null null null null null null null null null null null null null null null null null null null EndPoint null Floor 
+Floor Floor Floor Floor Floor null Floor null null null null null Floor Floor Floor Floor Floor Floor null Floor null null null null null null null null null null null null null null null null Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor null null null null null Floor null Floor Floor Floor Floor Floor Floor null Floor null null null Box null null Box null null Floor null null Floor null null Floor Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor null null null Floor Spikes Floor Spikes Floor Floor Floor Floor Floor Floor Spikes Floor Spikes Floor null Box Spikes Spikes Box Spikes Spikes Spikes Spikes Spikes Spikes Spikes Spikes Spikes Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor 

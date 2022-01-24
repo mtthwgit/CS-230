@@ -1,0 +1,9 @@
+30:8
+Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor 
+Floor null null null null null null Floor null null null null null null null null null null null null null null null null null null null null null Floor 
+Floor null null null null null null Floor null null null null null null null null null null null null null null null null null null null null null Floor 
+Floor null SpawnPoint:true null null null null Floor null null null null null null null null null null null null null null null null null null null null null Floor 
+Floor Floor Floor Floor Floor null null Floor null null null Floor null Floor null null null null null null null null null null null null null EndPoint null Floor 
+Floor Floor Floor Floor Floor null null null null null Floor Floor null Floor null null null null null null Floor Floor Floor null null Floor Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor Spikes null null null Floor Floor Floor Spikes Floor null null Floor Floor Floor Spikes Floor Floor Floor Spikes Floor Floor Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor 

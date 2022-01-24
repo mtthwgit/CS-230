@@ -1,0 +1,21 @@
+30:20
+Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor 
+Floor null null null null null Floor null null null null null null null DownwardSpikes null null null null null null null null Floor Floor Floor Floor Floor Floor Floor 
+Floor null null null null null Floor null null null null null null null null null null null null null null null null Floor Floor Floor Floor Floor Floor Floor 
+Floor null SpawnPoint:true null null null Floor null null null null null null null null null null null null null null EndPoint null Floor Floor Floor Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor null Floor null null null Floor Floor Floor Floor Floor Acid Acid Acid Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor null Floor Floor null null null null null DownwardSpikes Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor null Floor Floor Floor null null null null null null null null null null Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor null Floor Floor Floor Floor null null null null null null null null null null null null Floor Floor Floor Floor Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor null Floor Floor Floor Floor Floor Acid Acid Floor null null null null null null null null null null Floor Floor Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor null Floor Floor Floor Floor Floor Floor Floor Floor null null Floor null null null null null null null null null Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor null DownwardSpikes null null null null null null null null null Floor Box null Box Spikes null null null null null null Floor Floor Floor 
+Floor null null null null null null null null null null null null null null null Floor Floor null Floor Floor Floor Spikes null null null null null null Floor 
+Floor null null null null null null null null null null null null null null null null null null null null Floor Floor Floor Spikes null null null null Floor 
+Floor null Floor Floor Floor Floor null Floor Floor Floor Floor Floor Floor Floor null null null null null null null null null Floor Floor Floor null null null Floor 
+Floor null Floor Floor Floor Floor null DownwardSpikes DownwardSpikes DownwardSpikes DownwardSpikes DownwardSpikes DownwardSpikes DownwardSpikes null null null null null null null null null null null null null null Floor Floor 
+Floor null null null Floor Floor null null null null null null null null null Floor null null null null null null null null null null null Floor Floor Floor 
+Floor null null EndPoint Floor Floor null null null null EndPoint null null null null Floor null null null null null null null null null Floor Floor Floor Floor Floor 
+Floor null Floor Floor Floor Floor null null null null Floor null null null null Floor null Floor Floor Floor Floor null Floor null Floor Floor Floor Floor Floor Floor 
+Floor Acid Floor Floor Floor Floor Floor Acid Acid Acid Acid Acid Acid Acid Floor Floor Spikes Floor Floor Floor Floor Spikes Floor Spikes Floor Floor Floor Floor Floor Floor 
+Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor Floor 

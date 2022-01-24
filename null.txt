@@ -1,0 +1,11 @@
+10:10
+Dirt Dirt Dirt Dirt Dirt Dirt Dirt Dirt Dirt Dirt 
+Dirt Dirt Dirt Dirt Dirt Dirt Dirt Dirt Dirt Dirt 
+Dirt Dirt Dirt Dirt Dirt Dirt Dirt Dirt Dirt Dirt 
+Dirt Dirt Dirt Dirt Dirt Dirt Dirt Dirt Dirt Dirt 
+null Dirt null Dirt Dirt Dirt Dirt null null null 
+null null null Dirt Dirt Dirt SpawnPoint:true null null null 
+null null null null null null null null null null 
+null null null null null null null null null null 
+null null null null null null null null null null 
+null null null null null null null null null null 
